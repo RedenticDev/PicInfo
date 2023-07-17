@@ -1,0 +1,12 @@
+Package: com.redenticdev.picinfo
+Name: PicInfo
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Show the info of any picture
+Icon: https://redentic.dev/depictions/com.redenticdev.picinfo/icon.png
+Depiction: https://redentic.dev/depictions/?p=com.redenticdev.picinfo
+SileoDepiction: https://redentic.dev/depictions/com.redenticdev.picinfo/sileo.json
+Maintainer: RedenticDev <hello@redentic.dev>
+Author: RedenticDev <hello@redentic.dev>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
